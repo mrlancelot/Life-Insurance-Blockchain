@@ -11,7 +11,7 @@ Audience level : Intermediate Developers
 * Docker
 
 ## Application Workflow Diagram
-![Workflow](images/arch-blockchain-insurance2.png)
+
 
 * Generate Certificates for peers
 * Build Docker images for network
